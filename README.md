@@ -1,15 +1,15 @@
-# Lekce 8 - zvářata (startovní balíček)
+# Lekce 9 - zvířata (pokračování z lekce 8)
 
-Startovací balíček pro lekci 8 kurzu JavaScript #2 od Czechitas.
+Startovací balíček pro lekci 9 kurzu JavaScript #2 od Czechitas.
 
 Pro správné fungování balíčku měj nainstalovanou LTS verzi Node.js (alespoň 10.x a novější)
 
 ## Postup při zakládání nového projektu
 
-1. Vytvoř si na svém GitHubu nový repozitář a nějak si ho pojmenuj (např. *js-lekce-8*).
+1. Vytvoř si na svém GitHubu nový repozitář a nějak si ho pojmenuj (např. *js-lekce-9*).
 2. Při vytváření repozitáře **nezaškrtávej** volbu *Initialize this repository with README**.
 3. Objeví se tvůj nový prázdný repozitář, kde máš hned na úvodní stránce několik možností. Vyber poslední z nich **Import code from another repository** - klikni na tlačítko **Import code**.
-4. Na následující obrazovce do pole **Your old repository’s clone URL** zadej `https://github.com/lrolecek/javascript2-lekce08-zvirata` a klikni na zelené tlačítko **Begin import**.
+4. Na následující obrazovce do pole **Your old repository’s clone URL** zadej `https://github.com/lrolecek/javascript2-lekce09-zvirata` a klikni na zelené tlačítko **Begin import**.
 5. Chvilku to potrvá, ale nakonec se objeví hlášení, že je vše hotovo. Kliknutím na odkaz se jménem tvého repozitáře ho otevřeš.
 6. V repozitáři s naimportovaným kódem klikni na zelené tlačítko **Clone or download** a vyber volbu **Open in desktop**, aby se ti repozitář zkopíroval k tobě na disk.
 7. V aplikaci GitHub Desktop kliknutím na **Open in VS Code** otevřeš složku s projektem v editoru.
